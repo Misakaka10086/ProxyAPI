@@ -1,5 +1,5 @@
 
-const TELEGRAPH_URL = 'https://ai-yyds.com';
+const TELEGRAPH_URL = 'https://ai-yyds.com/v1';
 
 
 export default {
